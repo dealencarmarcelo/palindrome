@@ -2,9 +2,9 @@
 
 Code to validate if a string is a palindrome.
 
-> Palindrome - returns *true*.
+> It's a Palindrome - returns *true*.
 
-> Not palindrome - returns *false*.
+> It's not a Palindrome - returns *false*.
 
 
 ### To run Specs or Main
