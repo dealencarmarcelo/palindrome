@@ -15,6 +15,6 @@ Code to validate if a string is a palindrome.
 
 ```rspec``` 
 
-### To validate a CPF format, run:
+### To validate a string Palindrome, run:
 
 ```ruby main.rb```
